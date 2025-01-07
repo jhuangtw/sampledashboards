@@ -1,11 +1,16 @@
 {
+  "datasets" : [ {
+    "name" : "c6d1a57e",
+    "displayName" : "trips",
+    "query" : "SELECT * FROM main.nyctaxi.trips"
+  } ],
   "pages" : [ {
     "name" : "02867e8b",
     "displayName" : "Untitled page",
     "layout" : [ {
       "widget" : {
         "name" : "ea67bec2",
-        "textbox_spec" : "Hello World!"
+        "textbox_spec" : "test 123"
       },
       "position" : {
         "x" : 0,
